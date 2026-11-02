@@ -1,0 +1,20 @@
+# Local batch inputs and generated deliverables
+inputs/
+covers/
+output/
+tmp/
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Legacy first-batch files retained locally
+/books.json
+/cover-prompts.json
+/drive-upload-manifest.json
+/English ebook cover prompts.md
+/Cover research and design notes.md
+
+.DS_Store
